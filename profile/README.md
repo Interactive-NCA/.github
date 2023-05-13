@@ -1,23 +1,24 @@
-# Interactive Neural Cellular Automata for Game Level Generation 🎮
+# Interactive Neural Cellular Automata for Game Level Generation 🎮🧩
+
 
 This organisation groups all the code and repositories used for our Bachelor thesis in Data Science (Spring 2023) at IT University of Copenhagen.
-It contains three main repositories, INCA library, web ui frontend and a backend.
+It contains three main repositories, **INCA library**, **NextJS Frontend** and a **FastAPI Backend**.
 
-### [control_pcgnca](https://github.com/Interactive-NCA/control-pcgnca/)
+### [control-pcgnca](https://github.com/Interactive-NCA/control-pcgnca/)
 ![Last commit](https://img.shields.io/github/last-commit/Interactive-NCA/control-pcgnca?style=flat-square)
 
-This repository represent the main Interactive Neural Cellular Automata (INCA) library. 
+This repository contains the code for the main **Interactive Neural Cellular Automata (INCA)** library. 
 
-### [Web UI Frontend](https://github.com/Interactive-NCA/web-ui]) 
+### [web-ui](https://github.com/Interactive-NCA/web-ui]) 
 [![Status](https://img.shields.io/website?style=flat-square&up_message=online&url=https%3A%2F%2Fwww.zeldalevelcraft.com)](https://www.zeldalevelcraft.com) 
 ![Last commit](https://img.shields.io/github/last-commit/Interactive-NCA/web-ui?style=flat-square)
 
-Code for the interactive user interface developed as a qualitative experimentation platform to try our proposed system and compare and test the main experiments that we have conducted. The web application is being currently hosted at (www.zeldalevelcraft.com)[https://www.zeldalevelcraft.com)
+Code for the interactive user interface developed as a qualitative experimentation platform to try our proposed system and compare and test the main experiments that we have conducted. The web application is being currently hosted at [www.zeldalevelcraft.com](https://www.zeldalevelcraft.com)
 
-### [Backend](https://github.com/Interactive-NCA/nca-backend])
+### [nca-backend](https://github.com/Interactive-NCA/nca-backend])
 ![Status](https://img.shields.io/website?style=flat-square&up_message=online&url=https%3A%2F%2Fnca-backend-rxv2teft2q-ew.a.run.app%2Fdocs) ![Last commit](https://img.shields.io/github/last-commit/Interactive-NCA/nca-backend?style=flat-square)
 
-Uses the INCA library to define endpoints which the web UI depends on. This backend can be furthermore used as a general API for NCA models
+Uses the INCA library to define endpoints which the web UI depends on. This backend can be furthermore used as a general API for our INCA models
 and can be used to develop similar interfaces as the one proposed in our work.
 
 ## Abstract 
@@ -40,3 +41,46 @@ ments in our proposed model training strategies. Apart from the proposed system,
 have also developed an experimental platform for testing the approach. We hope that
 this work can serve as a useful basis for researchers working with INCAs and provide
 a good starting point for future work in further research using NCAs for MI-CC.
+
+
+
+
+
+
+
+
+
+
+```
+                                                        /@
+                                         __        __   /\/
+                                        /==\      /  \_/\/   
+                                      /======\    \/\__ \__
+                                    /==/\  /\==\    /\_|__ \
+                                 /==/    ||    \=\ / / / /_/
+                               /=/    /\ || /\   \=\/ /     
+                            /===/   /   \||/   \   \===\
+                          /===/   /_________________ \===\
+                       /====/   / |                /  \====\
+                     /====/   /   |  _________    /  \   \===\    THE LEGEND OF 
+                     /==/   /     | /   /  \ / / /  __________\_____      ______       ___
+                    |===| /       |/   /____/ / /   \   _____ |\   /      \   _ \      \  \
+                     \==\             /\   / / /     | |  /= \| | |        | | \ \     / _ \
+                     \===\__    \    /  \ / / /   /  | | /===/  | |        | |  \ \   / / \ \
+                       \==\ \    \\ /____/   /_\ //  | |_____/| | |        | |   | | / /___\ \
+                       \===\ \   \\\\\\\/   /////// /|  _____ | | |        | |   | | |  ___  |
+                         \==\/     \\\\/ / //////   \| |/==/ \| | |        | |   | | | /   \ |
+                         \==\     _ \\/ / /////    _ | |==/     | |        | |  / /  | |   | |
+                           \==\  / \ / / ///      /|\| |_____/| | |_____/| | |_/ /   | |   | |
+                           \==\ /   / / /________/ |/_________|/_________|/_____/   /___\ /___\
+                             \==\  /               | /==/
+                             \=\  /________________|/=/   
+                               \==\     _____     /==/ 
+                              / \===\   \   /   /===/
+                             / / /\===\  \_/  /===/
+                            / / /   \====\ /====/
+                           / / /      \===|===/
+                           |/_/         \===/
+                                          =
+
+```
