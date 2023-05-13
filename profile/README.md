@@ -4,13 +4,13 @@ This organisation groups all the code and repositories used for our Bachelor the
 
 It contains three main repositories:
 
-- (control_pcgnca)[https://github.com/Interactive-NCA/control-pcgnca/tree/main/pcgnca/evo]
+- [control_pcgnca](https://github.com/Interactive-NCA/control-pcgnca/tree/main/pcgnca/evo)
 This repository represent the main Interactive Neural Cellular Automata (INCA) library. 
 
-- (Web UI Frontend)[https://github.com/Interactive-NCA/web-ui]
+- [Web UI Frontend]([https://github.com/Interactive-NCA/web-ui])
 Code for the interactive user interface developed as a qualitative experimentation platform to try our proposed system and compare and test the main experiments that we have conducted. The web application is being currently hosted at (www.zeldalevelcraft.com)[https://www.zeldalevelcraft.com)
 
-- (Backend)[https://github.com/Interactive-NCA/nca-backend]
+- [Backend]([https://github.com/Interactive-NCA/nca-backend])
 Uses the INCA library to define endpoints which the web UI depends on. This backend can be furthermore used as a general API for NCA models
 and can be used to develop similar interfaces as the one proposed in our work.
 
@@ -34,4 +34,3 @@ ments in our proposed model training strategies. Apart from the proposed system,
 have also developed an experimental platform for testing the approach. We hope that
 this work can serve as a useful basis for researchers working with INCAs and provide
 a good starting point for future work in further research using NCAs for MI-CC.
-1
