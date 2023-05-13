@@ -1,5 +1,12 @@
-# Interactive Neural Cellular Automata for Game Level Generation 🎮🧩
-
+```
+ _____      _                      _   _             _   _ _____   ___  
+|_   _|    | |                    | | (_)           | \ | /  __ \ / _ \ 
+  | | _ __ | |_ ___ _ __ __ _  ___| |_ ___   _____  |  \| | /  \// /_\ \
+  | || '_ \| __/ _ \ '__/ _` |/ __| __| \ \ / / _ \ | . ` | |    |  _  |
+ _| || | | | ||  __/ | | (_| | (__| |_| |\ V /  __/ | |\  | \__/\| | | |
+ \___/_| |_|\__\___|_|  \__,_|\___|\__|_| \_/ \___| \_| \_/\____/\_| |_/                                                                     
+                                                                        
+```
 
 This organisation groups all the code and repositories used for our Bachelor thesis in Data Science (Spring 2023) at IT University of Copenhagen.
 It contains three main repositories, **INCA library**, **NextJS Frontend** and a **FastAPI Backend**.
