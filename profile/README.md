@@ -19,13 +19,13 @@ The system that the thesis proposes is illustrated below:
 
 This repository contains the code for the main **Interactive Neural Cellular Automata (INCA)** library. 
 
-### [web-ui](https://github.com/Interactive-NCA/web-ui]) 
+### [web-ui](https://github.com/Interactive-NCA/web-ui) 
 [![Status](https://img.shields.io/website?style=flat-square&up_message=online&url=https%3A%2F%2Fwww.zeldalevelcraft.com)](https://www.zeldalevelcraft.com) 
 ![Last commit](https://img.shields.io/github/last-commit/Interactive-NCA/web-ui?style=flat-square)
 
 Code for the interactive user interface developed as a qualitative experimentation platform to try our proposed system and compare and test the main experiments that we have conducted. The web application is being currently hosted at [www.zeldalevelcraft.com](https://www.zeldalevelcraft.com)
 
-### [nca-backend](https://github.com/Interactive-NCA/nca-backend])
+### [nca-backend](https://github.com/Interactive-NCA/nca-backend)
 ![Status](https://img.shields.io/website?style=flat-square&up_message=online&url=https%3A%2F%2Fnca-backend-rxv2teft2q-ew.a.run.app%2Fdocs) ![Last commit](https://img.shields.io/github/last-commit/Interactive-NCA/nca-backend?style=flat-square)
 
 Uses the INCA library to define endpoints which the web UI depends on. This backend can be furthermore used as a general API for our INCA models
